@@ -1,0 +1,53 @@
+{
+  "TranslationProperties": {
+    "Name": "Light Block",
+    "Description": "To light up the level w/o fullbright"
+  },
+  "Icon": "Icons/ItemsGenerated/Editor_Empty.png",
+  "Categories": [
+    "Tool.TechnicalBlocks"
+  ],
+  "BlockType": {
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Unbreakable"
+      },
+      "Soft": {
+        "DropList": "Empty"
+      }
+    },
+    "Support": {
+      "Down": [
+        {
+          "Support": "Ignored"
+        }
+      ]
+    },
+    "InteractionHitboxType": "Block_Empty",
+    "HitboxType": "Block_Empty",
+    "DrawType": "Empty",
+    "PlacementSettings": {
+      "AllowBreakReplace": true
+    },
+    "Opacity": "Transparent",
+    "Material": "Empty",
+    "Light": {
+      "Color": "#555"
+    }
+  },
+  "PlayerAnimationsId": "Block",
+  "Quality": "Technical",
+  "IconProperties": {
+    "Scale": 0.35,
+    "Rotation": [
+      22.5,
+      45.0,
+      22.5
+    ],
+    "Translation": [
+      0.0,
+      -13.5
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Stone"
+}
