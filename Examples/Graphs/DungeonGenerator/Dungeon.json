@@ -297,9 +297,9 @@
 													"Skip":	false,
 													"Scale":	{
 														"$NodeId":	"Decimal.Vector3d-9ad7d906-c115-48a5-b762-f8844cb70a92",
-														"X":	400,
+														"X":	408,
 														"Y":	1,
-														"Z":	400
+														"Z":	408
 													},
 													"Positions":	{
 														"$NodeId":	"SquareGrid2d.Positions-1a992f3a-ac03-4af1-bf74-c8d4855ae32e",
@@ -416,7 +416,7 @@
 									"$NodeId":	"ProximityConnector.NodeAction-770902c8-45d3-456a-9a12-88686cd7a840",
 									"Type":	"ProximityConnector",
 									"Skip":	false,
-									"Range":	21,
+									"Range":	18,
 									"Cap":	2,
 									"Seed":	"RandomNode",
 									"NodeSelector":	{
