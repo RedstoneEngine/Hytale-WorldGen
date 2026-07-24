@@ -3,6 +3,8 @@ import time
 # This is a downloaded library using the pip installer
 import pyautogui
 
+# ---User Input---
+
 # Instructions
 defineInterpolations = [{"name": "Wave1 Slider", "value": "SlideX", "initial": 0, "speed": -0.9},
                         {"name": "Wave2 Slider", "value": "SlideX", "initial": 0, "speed": -2.4},
@@ -22,11 +24,14 @@ end = 10
 # File Location
 hytaleLocation = "" # Find the location on your own computer and add it here!
 fileLocation = "data/pre-release/Saves/WORLD GEN/mods/RedEngDev.NewWorldGen/Server/HytaleGenerator/Biomes/PreRelease/Tree_On_A_Cliff"
-outputLocation = "" # Add where you would like to save your Screenshotted Frams to
+outputLocation = "" # Add where you would like to save your Screenshotted Frames to
 
 
 
-# Automation
+
+# ---Automation---
+
+
 biomeFile = ""
 
 # Read Base File
