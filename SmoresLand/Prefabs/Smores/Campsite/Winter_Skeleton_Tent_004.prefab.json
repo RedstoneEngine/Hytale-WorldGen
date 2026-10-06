@@ -1,0 +1,1502 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 3,
+  "anchorY": 6,
+  "anchorZ": 1,
+  "blocks": [
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Wood_Sticks",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Beech_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 1,
+      "name": "Wood_Beech_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Sticks",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Wood_Sticks",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Hardwood_Beam"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Hardwood_Beam"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 4,
+      "name": "Wood_Hardwood_Beam"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 4,
+      "name": "Furniture_Kweebec_Lantern"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -1,
+      "name": "Furniture_Kweebec_Stool",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Rubble_Stone",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Rubble_Stone",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Beech_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "name": "Rubble_Stone",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 1,
+      "name": "Furniture_Crude_Brazier"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 2,
+      "name": "Rubble_Stone_Medium",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 3,
+      "name": "Rubble_Stone",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 5,
+      "name": "Wood_Beech_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 5,
+      "name": "Deco_Plate"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Beech_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -1,
+      "name": "Rubble_Stone_Medium",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "name": "Furniture_Crude_Brazier"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 1,
+      "name": "Furniture_Crude_Brazier"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 2,
+      "name": "Furniture_Crude_Brazier"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 3,
+      "name": "Rubble_Stone",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 5,
+      "name": "Wood_Beech_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Beech_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -3,
+      "name": "Deco_Plate"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "name": "Rubble_Stone_Medium",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 1,
+      "name": "Furniture_Crude_Brazier"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 2,
+      "name": "Rubble_Stone_Medium",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Beech_Trunk",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 1,
+      "name": "Rubble_Stone",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 2,
+      "name": "Rubble_Stone",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 3,
+      "name": "Furniture_Kweebec_Stool"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 5,
+      "name": "Furniture_Kweebec_Chest_Small",
+      "components": {
+        "Components": {
+          "ItemContainerBlock": {
+            "ItemContainer": {
+              "Capacity": 18,
+              "Items": {}
+            },
+            "Capacity": 18
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "zztmg5obQFi/JqAVIB+pAQ==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Beech_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 1,
+      "name": "Wood_Beech_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Beech_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "Kweebec"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Kweebec",
+          "RespawnTime": 0.0,
+          "SpawnCount": 0,
+          "NPCReferences": [],
+          "PersistedFlock": {},
+          "SpawnPosition": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "Transform": {
+          "Position": {
+            "X": 1.5913314819335938,
+            "Y": 6.0,
+            "Z": 3.5998740196228027
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -6.954710960388184,
+            "Roll": 0.0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "UDHg/lUGMSSVMOMoeEIv0Q==",
+            "$type": "04"
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "Kweebec"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Kweebec",
+          "RespawnTime": 0.0,
+          "SpawnCount": 0,
+          "NPCReferences": [],
+          "PersistedFlock": {},
+          "SpawnPosition": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "Transform": {
+          "Position": {
+            "X": 1.7003555297851562,
+            "Y": 6.0,
+            "Z": 0.605903148651123
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -8.02546215057373,
+            "Roll": 0.0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "Ze4Y+dsjPrWgmWhcHYcjJg==",
+            "$type": "04"
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "Kweebec"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Kweebec",
+          "RespawnTime": 0.0,
+          "SpawnCount": 0,
+          "NPCReferences": [],
+          "PersistedFlock": {},
+          "SpawnPosition": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "Transform": {
+          "Position": {
+            "X": 5.9945220947265625,
+            "Y": 6.0,
+            "Z": -0.3213803768157959
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -3.879244327545166,
+            "Roll": 0.0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "RRcdujQ+ODaHvESVLCxXZg==",
+            "$type": "04"
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "Kweebec"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Kweebec",
+          "RespawnTime": 0.0,
+          "SpawnCount": 0,
+          "NPCReferences": [],
+          "PersistedFlock": {},
+          "SpawnPosition": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "Transform": {
+          "Position": {
+            "X": 6.3481903076171875,
+            "Y": 6.0,
+            "Z": 3.311915397644043
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -4.995893478393555,
+            "Roll": 0.0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "AGzXDsYwOouE+GlhH9hUnQ==",
+            "$type": "04"
+          }
+        }
+      }
+    }
+  ]
+}

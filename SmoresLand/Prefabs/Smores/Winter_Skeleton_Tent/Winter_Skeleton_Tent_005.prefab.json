@@ -1,0 +1,592 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 3,
+  "anchorY": 6,
+  "anchorZ": 1,
+  "blocks": [
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 3,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "name": "Furniture_Crude_Bed",
+      "filler": 992,
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 1,
+      "name": "Furniture_Crude_Bed",
+      "components": {
+        "Components": {
+          "CompanionBlockSpawnerBlock": {},
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "zztmg5obQFi/JqAVIB+pAQ==",
+              "$type": "04"
+            }
+          },
+          "RespawnBlock": {}
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Sticks",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 2,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Cloth_Roof_Leather_Flat"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 1,
+      "name": "Wood_Sticks",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 1,
+      "name": "Cloth_Roof_Leather_Flat"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 2,
+      "name": "Furniture_Crude_Bed",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "zztmg5obQFi/JqAVIB+pAQ==",
+              "$type": "04"
+            }
+          },
+          "RespawnBlock": {}
+        }
+      },
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 2,
+      "name": "Cloth_Roof_Leather_Flat"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 3,
+      "name": "Wood_Hardwood_Beam"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Hardwood_Beam"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 3,
+      "name": "Cloth_Roof_Leather_Flat"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Sticks",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 1,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 2,
+      "name": "Furniture_Crude_Bed",
+      "filler": 1,
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 2,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 3,
+      "name": "Wood_Sticks",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 3,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 1,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 2,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 3,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "Kweebec"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Kweebec",
+          "RespawnTime": 0.0,
+          "SpawnCount": 0,
+          "NPCReferences": [],
+          "PersistedFlock": {},
+          "SpawnPosition": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "Transform": {
+          "Position": {
+            "X": 3.4994354248046875,
+            "Y": 6.051357269287109,
+            "Z": -0.4855778217315674
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -0.5283870697021484,
+            "Roll": 0.0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "wdLdk7FwNZyhDJzii6V3Sg==",
+            "$type": "04"
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "Kweebec"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Kweebec",
+          "RespawnTime": 0.0,
+          "SpawnCount": 0,
+          "NPCReferences": [],
+          "PersistedFlock": {},
+          "SpawnPosition": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "Transform": {
+          "Position": {
+            "X": 4.505714416503906,
+            "Y": 6.048118591308594,
+            "Z": -0.4321368932723999
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -0.7690162658691406,
+            "Roll": 0.0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "9WBuzBsDNBa+LD8Y36LmwQ==",
+            "$type": "04"
+          }
+        }
+      }
+    }
+  ]
+}

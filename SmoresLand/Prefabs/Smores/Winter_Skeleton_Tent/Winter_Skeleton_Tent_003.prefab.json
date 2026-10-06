@@ -1,0 +1,464 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 3,
+  "anchorY": 6,
+  "anchorZ": 1,
+  "blocks": [
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Cloth_Roof_Leather_Flap",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 3,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 4,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Cloth_Roof_Leather_Flap",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Sticks"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 2,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Sticks",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 4,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 1,
+      "name": "Cloth_Roof_Leather_Flat"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 2,
+      "name": "Cloth_Roof_Leather_Flat"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 3,
+      "name": "Cloth_Roof_Leather_Flat"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Hardwood_Beam"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Hardwood_Beam"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 4,
+      "name": "Cloth_Roof_Leather_Flat"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 1,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 2,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 3,
+      "name": "Wood_Sticks",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 3,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 4,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 1,
+      "name": "Cloth_Roof_Leather_Flap",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 2,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 3,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Sandstone_White_Cobble"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 4,
+      "name": "Cloth_Roof_Leather",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 4,
+      "name": "Empty"
+    }
+  ]
+}
